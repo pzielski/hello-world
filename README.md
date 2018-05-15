@@ -1,5 +1,5 @@
 # hello-world
 
-Hello Everyone!
+Hello Everybody!
 
 My name is Peter, I'm learning Python and I'm really enjoying it.
